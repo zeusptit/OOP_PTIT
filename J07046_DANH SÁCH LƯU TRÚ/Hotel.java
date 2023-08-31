@@ -27,4 +27,4 @@ public class Hotel implements Comparable<Hotel>{
     public int compareTo(Hotel o) {
         return (int)(o.stayDay - this.stayDay);
     }
-}
+};
