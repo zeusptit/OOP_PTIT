@@ -1,11 +1,11 @@
-public class Rectange {
+public class Rectangle {
     private double width, height;
     private String color;
-    public Rectange() {
+    public Rectangle() {
         this.width = 1;
         this.height = 1;
     }
-    public Rectange(double width, double height, String color) {
+    public Rectangle(double width, double height, String color) {
         this.width = width;
         this.height = height;
         this.color = color;
